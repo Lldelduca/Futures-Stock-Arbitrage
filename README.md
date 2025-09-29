@@ -182,5 +182,3 @@ The algorithms are implemented in Python using the Optibook API. Key features in
 - Position management with automatic hedging.  
 - Respect of Optibook limits: maximum ±100 positions per instrument, maximum 200 outstanding orders, and no more than 25 updates per second.  
 
-The repository is structured as follows:  
-
